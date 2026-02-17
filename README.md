@@ -3,7 +3,7 @@ Welcome to the repo for the book Kubernetes – An Enterprise Guide, Third Editi
 Written by Marc Boorshtein and Scott Surovich.  
 
 # Extra's Directory  
-We have created a directoryb called Extras.  This contains content that we wanted to add for readers that is outside of the book content.  
+We have created a directory called Excursions.  This contains content that we wanted to add for readers that is outside of the original book content.  
 It contains add-ons that we find useful for additional testing and are provided as-is without any support.  
 
 Currently, it container one add-on, dnsmasq.  You can used dnsmasq to create your own domain for Ingress and ISTIO Virtual Services rather than using nip.io like the book exercises use.  
