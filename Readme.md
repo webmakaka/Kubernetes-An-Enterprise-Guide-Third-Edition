@@ -30,3 +30,11 @@ https://github.com/PacktPublishing/Kubernetes-An-Enterprise-Guide-Third-Edition
   <li>Chapter 18: Provisioning a Multitenant Platform</li>
   <li>Chapter 19: Building a Developer Portal</li>
 </ol>
+
+<br/><br/>
+
+---
+
+<br/>
+
+<a href="https://k8s.ru/">Предложить инженеру работу / подработку на проекте с kubernetes, microservices, machine learning, big data, golang</a>
