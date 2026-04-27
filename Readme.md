@@ -10,7 +10,7 @@ https://github.com/PacktPublishing/Kubernetes-An-Enterprise-Guide-Third-Edition
 ## Chapters:
 
 <ol>
-  <li>Docker and Container Essentials</li>
+  <li>📖 Docker and Container Essentials</li>
   <li>Deploying Kubernetes Using KinD</li>
   <li>Kubernetes Bootcamp</li>
   <li>Services, Load Balancing, and Network Policies</li>
